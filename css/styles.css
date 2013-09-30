@@ -1,0 +1,20 @@
+body {
+    overflow: hidden;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.flyer {
+}
+
+.flyer img {
+    margin-top: 100px;
+    max-width: 800px;
+    max-height: 640px;
+}
+
+.flyer span {
+    font-size: 100px;
+    font-weight: 900;
+    color: black;
+    text-shadow: 5px 5px grey;
+}
