@@ -21,6 +21,7 @@ body {
 }
 
 .surface {
+    cursor: hand;
 }
 
 .surface img {
